@@ -1,0 +1,31 @@
+.port{
+    height: 300px;
+    border: solid;
+    border-radius: 20px;
+    border-color: black;
+}
+body{
+    background-color:#E6E6FA;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.one{
+    font-size: 30px;
+    font-style: bold;
+}
+.two{
+    font-size: 40px;
+    margin-left: 25px;
+    font-style: bold;
+}
+.fo{
+    height: 300px;
+    border: solid;
+    border-radius: 20px;
+    border-color: black;
+}
+.three{
+    font-size: 30px;
+    font-style: bold;
+}
