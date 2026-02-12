@@ -1,0 +1,40 @@
+.link{
+    display: flex;
+    list-style: none;
+    
+}
+.one{
+    margin-left: 1300px;
+    margin-top: -40px;
+}
+.two{
+    margin-left: 20px;
+    margin-top: -40px;
+}
+nav{
+    background-color: aliceblue;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+}body{
+    background-color:#D6EAF8;
+}
+.four{
+    margin-left: 5px;
+
+}
+h2{
+    font-size: 50px;
+}
+.five{
+     font-size: 300px;  
+}
+.six{
+   font-size: 40px;
+}
+.port{
+    height: 300px;
+    border: solid;
+    border-radius: 20px;
+    border-color: black;
+}
